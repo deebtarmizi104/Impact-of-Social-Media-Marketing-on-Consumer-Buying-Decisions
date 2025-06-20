@@ -101,9 +101,7 @@ This project explores the influence of social media marketing strategies on cons
 
 ## 🔗 Project Repository
 
-[GitHub Repository – Social Media Marketing Impact](#)
-
-📌 *Add your actual repo URL above once created.*
+📌 [GitHub Repository – Social Media Marketing Impact](https://github.com/deebtarmizi104/Impact-of-Social-Media-Marketing-on-Consumer-Buying-Decisions/tree/main)
 
 ---
 
